@@ -12,7 +12,7 @@ bash Phishbait
 ## 📚 Usage 📚
 Follow the Steps:
 ```
-{00} --⫸ Download Ngrok Script in my Repository 
+{00} --⫸ Download Ngrok Script From my Repository (my advice) 
 {01} --⫸ Run Phishbait
 {02} --⫸ Open Another Window
 {03} --⫸ cd Website, then cd *site you want to host*
