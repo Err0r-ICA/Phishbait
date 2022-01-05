@@ -25,7 +25,7 @@ Follow the Steps:
 ```
 
 ## Screenshot 
-![Screenshot]()
+![Screenshot](https://i.postimg.cc/8c2ZZLk9/IMG-20220105-215938.jpg)
 
 ## Disclaimer
 ```diff
