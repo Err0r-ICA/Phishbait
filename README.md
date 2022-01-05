@@ -32,6 +32,7 @@ Follow the Steps:
 -Developer assume no liability and is NOT
 -responsible for any misuse or damage caused by PhishBait.
 -Use only for educational purporses
+```
 
 ### My Accounts
 
