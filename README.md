@@ -1,4 +1,4 @@
-# Phishbait - 100% working Phishing Tool (38 websites)
+# Phishbait - 100% working Phishing Tool (38 Websites)
 ### "Send This Link to The Victim: (nothing appears)" patched!!
 
 ## Installation
