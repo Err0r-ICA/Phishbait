@@ -28,7 +28,7 @@ Follow the Steps:
 ![Screenshot](https://i.postimg.cc/8c2ZZLk9/IMG-20220105-215938.jpg)
 
 ## 🎥 Video Tutorial 🎥
-![Video](https://user-images.githubusercontent.com/59941931/148306276-3ef67eff-f36b-4adf-8fbe-a4331270a38e.mp4)
+![Watch Me](https://user-images.githubusercontent.com/59941931/148306276-3ef67eff-f36b-4adf-8fbe-a4331270a38e.mp4)
 
 ## ❗ Disclaimer❗
 ```diff
