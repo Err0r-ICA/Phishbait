@@ -1,7 +1,7 @@
-# Phishbait - 100% working Phishing Tool (38 Websites)
+# 🎣 Phishbait 🎣<br>💯% Working Phishing Tool (38 Websites)
 ### "Send This Link to The Victim: (nothing appears)" patched!!
 
-## Installation
+## 💿 Installation 💿
 ```
 pkg update -y&&pkg upgrade -y
 git clone  https://github.com/Err0r-ICA/Phishbait
@@ -9,7 +9,7 @@ cd Phishbait
 bash Phishbait
 ```
 
-## Usage
+## 📚 Usage 📚
 Follow the Steps:
 ```
 {00} --⫸ Download Ngrok Script in my Repository 
@@ -24,17 +24,17 @@ Follow the Steps:
 {09} --⫸ Lure Your Target
 ```
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/8c2ZZLk9/IMG-20220105-215938.jpg)
 
-## Disclaimer
+## ❗ Disclaimer❗
 ```diff
 -Developer assume no liability and is NOT
 -responsible for any misuse or damage caused by PhishBait.
 -Use only for educational purporses
 ```
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
