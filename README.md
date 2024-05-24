@@ -1,7 +1,7 @@
 # 🎣 Phishbait 🎣<br><br>💯% Working Phishing Tool (38 Websites)
 ### "Send This Link to The Victim: (nothing appears)" patched!!
 
-[logo](https://i.postimg.cc/mRGnts9M/OIG2.jpg) 
+![logo](https://i.postimg.cc/mRGnts9M/OIG2.jpg) 
 
 ## 💿 Installation 💿
 ```
